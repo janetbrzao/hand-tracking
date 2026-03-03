@@ -36,4 +36,5 @@ POSSIVEIS MELHORIAS FUTURAS
 - Classificação de gestos especificos
 - Reconhecimento de sinais da Libras
 - Integração com modelo de Machine Learning
+
 - Interface gráfica
